@@ -41,3 +41,4 @@ def play(board)
     until turn >= 10
         turn(board)
     end
+end
